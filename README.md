@@ -19,6 +19,7 @@ Check Opp Diagonal
 Log a text file from game Play
 display dialogs 
 
+It has the capability to add and count the chips that are left and played
 
 <img width="504" alt="Screen Shot 2019-05-08 at 4 15 14 PM" src="https://user-images.githubusercontent.com/34346031/57405752-3987e900-71ad-11e9-9742-9a7157ad0dc2.png">
 
@@ -32,3 +33,7 @@ display dialogs
 
 
 <img width="704" alt="Screen Shot 2019-05-08 at 4 17 00 PM" src="https://user-images.githubusercontent.com/34346031/57405818-61774c80-71ad-11e9-9b19-61cab560ae38.png">
+
+LOG TXT FILE
+
+<img width="1030" alt="Screen Shot 2019-05-08 at 4 24 04 PM" src="https://user-images.githubusercontent.com/34346031/57405989-bdda6c00-71ad-11e9-900a-9a7adf5b532a.png">
